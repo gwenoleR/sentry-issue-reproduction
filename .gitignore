@@ -20,7 +20,7 @@ yarn-error.log*
 
 # misc
 .DS_Store
-.env*
+.env
 
 .next
 
@@ -44,3 +44,6 @@ yarn-error.log*
 /.pnp
 .pnp.js
 # @end @expo/next-adapter
+
+# Sentry Auth Token
+.sentryclirc
